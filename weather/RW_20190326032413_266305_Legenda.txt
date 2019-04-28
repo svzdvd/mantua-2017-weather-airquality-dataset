@@ -1,0 +1,9 @@
+﻿Legenda
+-999 Valore mancante o invalido
+
+Riepilogo estrazione
+Id_Stazione,Nome_Stazione,Id_Sensore,Nome_Sensore,Unita_Misura,Periodo_Dal,Periodo_Al,Operatore
+671,Mantova Tridolino,9816,Precipitazione,mm,2017/01/01 00:00,2017/12/31 00:00,Cumulata
+671,Mantova Tridolino,9819,Temperatura,°C,2017/01/01 00:00,2017/12/31 00:00,Media
+671,Mantova Tridolino,9820,Umidità Relativa,%,2017/01/01 00:00,2017/12/31 00:00,Media
+671,Mantova Tridolino,9821,Velocità Vento,m/s,2017/01/01 00:00,2017/12/31 00:00,Media
